@@ -1,0 +1,7 @@
+name: vosaka-come-to-pmmp
+version: 1.0.0
+php:
+  - "8.1"
+author: VennDev
+antigen: vosaka\pmmp
+description: The library provides runtime specifically for PocketMine-PMMP software.

@@ -1,0 +1,21 @@
+{
+  "name": "venndev/vosaka-ct-pmmp",
+  "description": "The library provides runtime specifically for PocketMine-PMMP software.",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "vosaka\\pmmp\\": "src/vosaka/pmmp"
+    }
+  },
+  "authors": [
+    {
+      "name": "VennV",
+      "email": "hyplex9009@gmail.com"
+    }
+  ],
+  "require": {
+    "venndev/v-osaka": "^1.3",
+    "pocketmine/pocketmine-mp": "^5.30"
+  }
+}
