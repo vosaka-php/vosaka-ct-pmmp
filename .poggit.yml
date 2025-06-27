@@ -1,0 +1,10 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/vosaka-php/vosaka-ct-pmmp
+build-by-default: true
+branches:
+- main
+projects:
+  vosaka-ct-pmmp:
+    path: ""
+    model: virion
+    type: library
+...
